@@ -1,0 +1,6 @@
+{
+  "name": "SAHNA — Eksklyuziv Teatr va Konsert Chiptalari",
+  "description": "O'zbekistondagi eng nufuzli tadbirlar, teatr premyeralari va jonli konsertlarga rasmiy chiptalar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
